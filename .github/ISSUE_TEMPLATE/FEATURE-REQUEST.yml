@@ -1,0 +1,29 @@
+name: Feature Request
+description: Create a new ticket for a feature request
+title: "[Feature]: "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+      description: Provide a brief explanation of the feature
+      placeholder: Describe in a few lines your feature request
+    validations:
+      required: true
+  - type: textarea
+    id: impact
+    attributes:
+      label: Impact
+      description: What is the impact of your feature request?
+      placeholder: Describe how this feature will impact the software
+    validations:
+      required: true
+  - type: textarea
+    id: basic-example
+    attributes:
+      label: Basic Example
+      description: Give some basic examples of how the feature should function
+      placeholder: A few specific examples
+    validations:
+      required: false
