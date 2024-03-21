@@ -37,6 +37,39 @@ See the [documentation](docs/SeaportDocumentation.md), the [interface](https://g
 
 ## Deployments
 
+### Bera Market Deployment Addresses and Keys
+
+<table>
+<tr>
+<th>Contract</th>
+<th>Canonical Cross-chain Deployment Address</th>
+</tr>
+<tr>
+<td>Seaport 1.5</td>
+<td><code>0x24C2c1412E31c7d831431abe6323DF068bb53775</code></td>
+</tr>
+<tr>
+<td>ConduitController</td>
+<td><code>0x00000000F9490004C11Cef243f5400493c00Ad63</code></td>
+</tr>
+<tr>
+<td>Conduit Key</td>
+<td><code>0x14c84f8abad55f074ef18beb46a7cbede6a17b103e9a0a17a3035e0836779ad1</code></td>
+</tr>
+<tr>
+<td>Conduit</td>
+<td><code>0x4ab164B4De618362cC1470d2DC594926a8D8A60d</code></td>
+</tr>
+<tr>
+<td>PausableZoneController</td>
+<td><code>0x19737DD2223C98A1a4798C6098A5127638605807</code></td>
+</tr>
+<tr>
+<td>PausableZone</td>
+<td><code>0xf4A521b952a7d39F28C5170Fd1Ddfe19a45099d0</code></td>
+</tr>
+</table>
+
 ### Canonical Cross-chain Deployment Addresses
 
 <table>

@@ -75,6 +75,12 @@ test='offerers'
 out = 'offerers-out'
 script = 'offerers'
 
+[etherscan]
+berachain_artio = { key = "${API_KEY_BERATRAIL}", url = "${BERACHAIN_ETHERSCAN_URL}", chain = "80085" }
+
+[rpc_endpoints]
+berachain_artio = "${BERACHAIN_ARTIO_RPC}"
+
 [fmt]
 line_length = 80
 tab_width = 4

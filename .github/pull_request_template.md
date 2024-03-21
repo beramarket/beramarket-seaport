@@ -1,25 +1,20 @@
-<!--
-Borrowed from foundry.
+Fixes #???? <!-- Fill in with issue number -->
 
-Thank you for your Pull Request. Please provide a description above and review
-the requirements below.
+### Summary
 
-Bug fixes and new features should include tests.
--->
+Enter a summary of the bug or feature request, and explain how this PR solves it.
 
-## Motivation
+### Testing Steps
 
-<!--
-Explain the context and why you're making that change. What is the problem
-you're trying to solve? In some cases there is not a problem and this can be
-thought of as being the motivation for your change.
+1. Test this
+2. Test that
 
-If your PR solves a particular issue, tag that issue.
--->
+### PR Checklist
 
-## Solution
+<!-- Before merging the pull request all of the following must be complete. -->
+<!-- Feel free to submit a PR or Draft PR even if some items are pending. -->
+<!-- Some of the items may not apply. -->
 
-<!--
-Summarize the solution and provide any necessary context needed to understand
-the code change.
--->
+- [ ] Code review (lint + formatting included)
+- [ ] Tests updated/created
+- [ ] Solution provided for the issue
